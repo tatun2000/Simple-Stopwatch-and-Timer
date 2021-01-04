@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/img1">
+        <file>Image/Секундомер.png</file>
+        <file>Image/Таймер.png</file>
+        <file>Sound/zvuk-iphone.mp3</file>
+    </qresource>
+</RCC>
